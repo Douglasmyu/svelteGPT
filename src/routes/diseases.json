@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Diabetes",
+        "keywords": ["diabetes", "high blood sugar", "insulin"]
+    },
+    {
+        "name": "Hypertension",
+        "keywords": ["hypertension", "high blood pressure", "bp"]
+    },
+    {
+        "name": "Flu",
+        "keywords": ["flu", "influenza", "fever", "cough"]
+    },
+    {
+        "name": "Covid-19",
+        "keywords": ["flu", "influenza", "fever", "cough", "headache"]
+    }
+    
+]
